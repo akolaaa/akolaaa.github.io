@@ -1,0 +1,80 @@
+[
+  {
+    "datatype": "species",
+    "name": "Quibberfluff Fern",
+    "datafield_1": 50,
+    "datafield_2": 10
+  },
+  {
+    "datatype": "species",
+    "name": "Blibberwobble Blossom",
+    "datafield_1": 85,
+    "datafield_2": 50
+  },
+  {
+    "datatype": "species",
+    "name": "Snickerstalk Sprout",
+    "datafield_1": 96,
+    "datafield_2": 89
+  },
+  {
+    "datatype": "species",
+    "name": "Gigglegrove Moss",
+    "datafield_1": 45,
+    "datafield_2": 20
+  },
+  {
+    "datatype": "species",
+    "name": "Zonkberry Thistle",
+    "datafield_1": 100,
+    "datafield_2": 85
+  },
+  {
+    "datatype": "pot",
+    "name": "clay",
+    "datafield_1": 1.2,
+    "datafield_2": ""
+  },
+  {
+    "datatype": "pot",
+    "name": "stone",
+    "datafield_1": 1.1,
+    "datafield_2": ""
+  },
+  {
+    "datatype": "pot",
+    "name": "wood",
+    "datafield_1": 1.3,
+    "datafield_2": ""
+  },
+  {
+    "datatype": "pot",
+    "name": "plastic",
+    "datafield_1": 1,
+    "datafield_2": ""
+  },
+  {
+    "datatype": "season",
+    "name": "spring",
+    "datafield_1": 0.9,
+    "datafield_2": 1.2
+  },
+  {
+    "datatype": "season",
+    "name": "summer",
+    "datafield_1": 1,
+    "datafield_2": 1
+  },
+  {
+    "datatype": "season",
+    "name": "autumn",
+    "datafield_1": 0.8,
+    "datafield_2": 0.7
+  },
+  {
+    "datatype": "season",
+    "name": "winter",
+    "datafield_1": 0.6,
+    "datafield_2": 0.4
+  }
+]
